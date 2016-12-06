@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/ISE/CU/HCU_tb_isim_beh.exe" -prj "D:/ISE/CU/HCU_tb_beh.prj" "work.HCU_tb" 

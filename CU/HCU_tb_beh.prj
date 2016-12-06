@@ -1,0 +1,4 @@
+vhdl work "decode.vhd"
+vhdl work "CU_central.vhd"
+vhdl work "HCU.vhd"
+vhdl work "HCU_tb.vhd"

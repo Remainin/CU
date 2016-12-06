@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/My_project/CU/HCU.xst" -ofn "D:/My_project/CU/HCU.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx16-csg324-3 HCU.ngc HCU.ngd  

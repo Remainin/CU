@@ -1,0 +1,4 @@
+vhdl isim_temp "decode.vhd"
+vhdl isim_temp "CU_central.vhd"
+vhdl isim_temp "HCU.vhd"
+vhdl isim_temp "HCU_tb.vhd"
